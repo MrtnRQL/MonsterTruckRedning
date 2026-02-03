@@ -1,41 +1,48 @@
-Denne appen, MonsterTruck Redning: Hjelp Elias!, er laget for barn og tar personvern på alvor. Vi har som mål å tilby en trygg og morsom spillopplevelse uten innsamling av personopplysninger.
+# Personvernregler  
+## MonsterTruck Redning: Hjelp Elias!
 
-1. Hvilke data samler vi inn?
+**Sist oppdatert:** 3. februar 2026
 
-MonsterTruck Redning: Hjelp Elias! samler ikke inn, lagrer eller deler personlige opplysninger.
+MonsterTruck Redning: Hjelp Elias! er et barnevennlig spill som tar personvern på alvor.  
+Appen er laget for barn og samler ikke inn personopplysninger.
+
+---
+
+## 1. Hvilke data samler vi inn?
+MonsterTruck Redning: Hjelp Elias! samler **ikke inn**, lagrer eller deler personlige opplysninger.
 
 Appen:
+- krever ikke innlogging eller brukerkonto
+- samler ikke inn navn, e-postadresse, alder eller annen identifiserbar informasjon
+- bruker ikke kamera, mikrofon eller GPS
+- inneholder ikke tredjepartsreklame
+- bruker ikke analyseverktøy eller sporing
+- deler ingen data med tredjeparter
 
-krever ikke innlogging eller brukerkonto
+---
 
-samler ikke inn navn, e-postadresse, alder eller annen identifiserbar informasjon
+## 2. Enhetsdata
+Appen har ikke tilgang til sensitive enhetsdata og leser ikke informasjon fra brukerens enhet utover det som er teknisk nødvendig for at spillet skal fungere.
 
-bruker ikke kamera, mikrofon eller GPS
+---
 
-inneholder ikke reklame
+## 3. Tredjepartstjenester
+Appen benytter **ingen tredjepartstjenester** som samler inn, analyserer eller deler brukerdata.
 
-bruker ikke analyseverktøy eller sporing
+---
 
-deler ingen data med tredjeparter
+## 4. Barns personvern
+Denne appen er utviklet spesielt for barn under 13 år og overholder gjeldende regelverk for barns personvern, inkludert:
 
-2. Enhetsdata
-
-Appen har ikke tilgang til sensitive enhetsdata og leser ikke informasjon fra brukerens enhet utover det som er nødvendig for at spillet skal fungere teknisk.
-
-3. Tredjepartstjenester
-
-Appen benytter ingen tredjepartstjenester som samler inn, analyserer eller deler brukerdata.
-
-4. Barns personvern
-
-Denne appen er spesielt utviklet for barn under 13 år og er i samsvar med gjeldende personvernregler, inkludert:
-
-GDPR-K (barns personvern i EU)
-
-COPPA (Children’s Online Privacy Protection Act)
+- GDPR-K (EU)
+- COPPA (USA)
 
 Vi samler ikke inn personopplysninger fra barn.
 
-5. Endringer i personvernreglene
+---
 
-Hvis disse personvernreglene endres, vil den oppdaterte versjonen bli gjort tilgjengelig på denne siden. Eventuelle endringer vil tre i kraft umiddelbart etter publisering.
+## 5. Endringer i personvernreglene
+Eventuelle endringer i disse personvernreglene vil bli publisert på denne siden.  
+Endringer trer i kraft umiddelbart etter publisering.
+
+---
